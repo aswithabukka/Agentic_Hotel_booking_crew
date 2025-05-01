@@ -1,4 +1,4 @@
-# Build a multi-agent hotel booking crew using DeepSeek-R1
+# Multi-agent hotel booking crew
 
 We are building a 100% local multi-agent hotel booking crew in this tutorial. It finds the cheapest and best hotels for you and uses DeepSeek-R1 running locally.
 
